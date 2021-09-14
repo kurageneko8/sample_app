@@ -5,6 +5,8 @@ ruby '3.0.1'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails', branch: 'main'
 gem 'rails', '~> 6.1.3', '>= 6.1.3.2'
+# Listing 5.4: Adding the bootstrap-sass gem to the Gemfile.
+gem 'bootstrap-sass',       '3.4.0'
 # Use Puma as the app server
 gem 'puma', '~> 5.0'
 # Use SCSS for stylesheets
